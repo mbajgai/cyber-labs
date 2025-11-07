@@ -64,7 +64,7 @@ I created this repository to **track my growth, share my progress, and connect w
 
 ## 🤝 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn URL here]  
+- **LinkedIn:** [www.linkedin.com/in/manoj-bajgai-963397194]  
 - **GitHub:** [https://github.com/mbajgai](https://github.com/mbajgai)
 
 ---
