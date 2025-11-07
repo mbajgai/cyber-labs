@@ -4,6 +4,8 @@ Welcome to my **Cyber Labs** — a personal collection of labs, notes, and hands
 
 I use this space to document real-world practice and continuous learning across networking, system administration, and ethical hacking fundamentals.
 
+> **Last Updated:** November 2025  
+
 ---
 
 ## 🔧 Focus Areas
@@ -14,58 +16,66 @@ I use this space to document real-world practice and continuous learning across 
   - TryHackMe labs, HackTheBox challenges, vulnerability scanning, SIEM basics, and blue-team defence.
 - **System Administration**
   - Windows and Linux management, backups, and security hardening.
-- **Automation & Scripts**
-  - Simple Bash and Python scripts for system checks and security automation.
+- **Automation & Scripting**
+  - Bash and Python scripts for system checks, reporting, and security automation.
 
 ---
 
-## 🧩 Repo Structure
+## 🧩 Repository Structure
 
 | Folder | Description |
 |---------|-------------|
-| `networking-labs` | Practical networking and Windows/Linux setup exercises |
-| `tryhackme-writeups` | Notes and walkthroughs from TryHackMe rooms |
-| `hackthebox-writeups` | Walkthroughs and notes from HackTheBox machines (where allowed) |
-| `scripts` | Bash/Python scripts for automation or auditing |
-| `certifications-notes` | Notes from CompTIA Network+, Security+, and future certs |
-
-> **Note:** For HackTheBox write-ups, avoid posting full exploit code for active retired machines if it violates HTB rules — use summaries, commands used, and lessons learned.
+| `networking-labs/` | Practical networking and Windows/Linux setup exercises |
+| `tryhackme-writeups/` | Notes and walkthroughs from TryHackMe rooms |
+| `hackthebox-writeups/` | Summaries from HackTheBox machines (respecting HTB disclosure rules) |
+| `scripts/` | Bash/Python automation tools and small utilities |
+| `certifications-notes/` | Study notes for CompTIA Network+, Security+, and future certifications |
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Operating Systems:** Windows, Linux (Ubuntu, Kali)
-- **Networking:** Cisco Packet Tracer, Wireshark, pfSense
-- **Security:** Nmap, Metasploit, Nessus, Burp Suite, SIEM tools
-- **Platforms:** TryHackMe, HackTheBox, Hack The Box Academy
-- **Languages:** Python, Bash
-- **Learning Platforms:** TryHackMe, HackTheBox, HackTheBox Academy, CompTIA resources
+**Operating Systems:** Windows, Linux (Ubuntu, Kali)  
+**Networking:** Cisco Packet Tracer, Wireshark, pfSense  
+**Security Tools:** Nmap, Burp Suite, Metasploit, Nessus, Hydra, SIEM platforms  
+**Platforms:** TryHackMe, HackTheBox, HackTheBox Academy  
+**Languages:** Python, Bash  
+**Learning Resources:** CompTIA Learn+, TCM Security Academy, YouTube labs, Open-Source projects
 
 ---
 
 ## 📈 Current Learning Goals
 
-- Prepare for **CompTIA Network+ and Security+**
-- Build structured **network and security labs** at home
-- Develop Python automation scripts for auditing and scanning
-- Contribute to open-source security projects
+- Earn **CompTIA Network+ and Security+**
+- Build and document a **home lab** with Windows Server and pfSense
+- Learn **Python for cybersecurity automation**
+- Practice blue-team fundamentals through SIEM and log analysis
+- Share progress publicly to track improvement
 
 ---
 
 ## 🧾 About Me
 
-Hi, I’m **Manoj Bajgai**, an aspiring **Cybersecurity Professional** with a background in IT support and networking.  
-I’m passionate about hands-on learning, defensive security, and building efficient systems.
+Hi, I’m **Manoj Bajgai** — an aspiring **Cybersecurity Professional** with a background in IT support and networking.  
+I’m passionate about practical learning, building secure environments, and understanding how systems really work beneath the surface.
 
-I created this repository to **track my growth, share my progress, and connect with others** who are on the same journey.
+This repository is my living portfolio — tracking every lab, certification note, and script I build as I grow into the cybersecurity field.
+
+---
+
+## 🚀 Next Steps
+
+- Add weekly lab summaries from **TryHackMe** and **HackTheBox**
+- Publish **Python scripts** for auditing, scanning, and automation
+- Begin **Network+ certification** preparation notes
+- Experiment with **Active Directory home lab setup**
 
 ---
 
 ## 🤝 Connect with Me
 
-- **LinkedIn:** [www.linkedin.com/in/manoj-bajgai-963397194]  
+- **LinkedIn:** [http://www.linkedin.com/in/manoj-bajgai-963397194]  
 - **GitHub:** [https://github.com/mbajgai](https://github.com/mbajgai)
 
 ---
-> 💡 “Security is not a product, it’s a process — and learning is the foundation.”
+> 💡 “Security isn’t a product — it’s a process. Learning every day is the real defence.”
