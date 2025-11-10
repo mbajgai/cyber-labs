@@ -4,6 +4,9 @@
 
 **WARNING:** This project is intentionally vulnerable and built for learning. Run only in an isolated VM / host-only network. Do **NOT** expose this application to the public internet.
 
+![MiniShop demo](minishop_demo_optimized.gif)
+
+
 ---
 
 ## Quick summary
