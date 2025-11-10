@@ -1,0 +1,22 @@
+<pre>[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123"
+  },
+  {
+    "id": 2,
+    "username": "user1",
+    "password": "password"
+  },
+  {
+    "id": 3,
+    "username": "admin",
+    "password": "admin123"
+  },
+  {
+    "id": 4,
+    "username": "user1",
+    "password": "password"
+  }
+]</pre>

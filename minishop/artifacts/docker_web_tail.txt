@@ -1,0 +1,4 @@
+Attaching to minishop_web_1
+[36mweb_1  |[0m 
+[36mweb_1  |[0m up to date in 436ms
+[36mweb_1  |[0m MiniShop running on http://localhost:3000

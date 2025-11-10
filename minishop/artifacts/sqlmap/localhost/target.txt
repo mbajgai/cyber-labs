@@ -1,0 +1,1 @@
+http://localhost:3000/product?id=1 (GET)  # /usr/bin/sqlmap -u http://localhost:3000/product?id=1 --batch --level=3 --risk=2 --dbms=SQLite --dump-all --output-dir=artifacts/sqlmap

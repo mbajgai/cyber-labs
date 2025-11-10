@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Location: /
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 23
+Set-Cookie: connect.sid=s%3AHfvbP4LhdcbzhrcQ8XeF2kSu64DGfRds.At17GSN6x16QoCgc9IofAP5KzGbPDr1lAoMWYWP%2Byo0; Path=/; HttpOnly
+Date: Sun, 09 Nov 2025 22:33:49 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+Found. Redirecting to /
