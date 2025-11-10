@@ -44,3 +44,24 @@ sudo apt install -y docker.io docker-compose git sqlite3 nmap
 # sqlmap optional:
 sudo apt install -y sqlmap
 sudo systemctl enable --now docker
+
+---
+
+## 🔧 Fixing the Vulnerabilities & Testing the Patched Variant
+
+A patch file `fix_vulns.patch` is included in this repository.  
+It fixes the major vulnerabilities by:
+
+- Replacing string-concatenated SQL with **parameterized queries**  
+- Adding **bcrypt** password hashing  
+- Securing `/login` with safe comparisons  
+- Adding an **admin-check middleware** to protect `/admin`  
+- Improving session handling
+
+### 1) Create a safe branch
+```bash
+git checkout -b fix/sql-injection-bcrypt
+MD
+
+**Fixed variant:** A secure version is available in branch `fix/sql-injection-bcrypt`.  
+See the "Fix & Patched Variant Guide" section for instructions on applying and testing the patch.
