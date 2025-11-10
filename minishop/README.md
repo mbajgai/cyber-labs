@@ -4,6 +4,9 @@
 
 ---
 
+![MiniShop demo](minishop_demo_optimized.gif)
+
+
 ## Quick summary
 MiniShop is a minimal Node.js + Express + SQLite web app intentionally designed to demonstrate common web vulnerabilities:
 - **SQL Injection (SQLi)** — `/product?id=...` is vulnerable (string concatenation).
